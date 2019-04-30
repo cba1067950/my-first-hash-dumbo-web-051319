@@ -9,7 +9,9 @@ def shipping_manifest
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
   the_manifest = myHash 
-  myHash 
+  myHash["whale bone corsets"] = 5
+  myHash["porcelain vases"] = 2
+  myHash["oil paintings"] = 3
 
 end
 

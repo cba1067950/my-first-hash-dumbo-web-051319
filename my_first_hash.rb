@@ -12,7 +12,7 @@ def shipping_manifest
   myHash["whale bone corsets"] = 5
   myHash["porcelain vases"] = 2
   myHash["oil paintings"] = 3
-
+  myHash
 end
 
 def retrieval
